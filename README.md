@@ -1,4 +1,4 @@
-# Asignatura Programación. Grados de Ing Industrial Universidad de Almería. Programación 44101107
+#  Grados de Ing Industrial Universidad de Almería. Asignatura Programación - 44101107
 
 https://www.ual.es/estudios/grados/presentacion/plandeestudios/asignatura/4410/44101107?idioma=es_ES
 
